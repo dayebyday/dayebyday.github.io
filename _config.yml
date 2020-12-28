@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
+title:          깨방정의 코딩 diary
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://dayebyday.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         dayebyday
+  url:          https://github.com/dayebyday
+  email:        mdaye15@gmail.com
 
 # Build settings
 markdown:       kramdown
