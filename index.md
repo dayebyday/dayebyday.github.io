@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Daye Mooon"
 main: ture
 subtitle: Display Development Engineer dayebyday
