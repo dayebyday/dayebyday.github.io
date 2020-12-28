@@ -1,6 +1,6 @@
 # Site settings
 title:          깨방정의 코딩 diary
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Daye's Today I learned"
 url:            "https://dayebyday.github.io"
 
 # Google Analytics
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         dayebyday
-  url:          https://github.com/dayebyday
+  url:          https://dayebyday.github.io
   email:        mdaye15@gmail.com
 
 # Build settings
@@ -37,4 +37,4 @@ paginate:       5
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+disqus:         dayebyday
