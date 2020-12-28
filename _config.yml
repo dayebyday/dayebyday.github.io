@@ -12,6 +12,11 @@ author:
   url:          https://dayebyday.github.io
   email:        mdaye15@gmail.com
 
+# Custom vars
+version:        0.0.1
+github:
+  repo:         https://github.com/dayebyday/dayebyday.github.io
+
 # Build settings
 markdown:       kramdown
 include:
