@@ -1,7 +1,10 @@
 # Site settings
-title:          깨방정의 코딩 diary
-description:    "Daye's Today I learned"
-url:            "https://dayebyday.github.io"
+title:          깨방정의 코딩 diary     # Meta 태그에 들어가는 영역
+subtitle:       by 호기심이 많은
+description:    "Daye's Today I learned"     # Meta 태그에 들어가는 영역
+url:            "https://dayebyday.github.io"     # GitBlog 호스트 주소
+teaser:         # 홈페이지 기본 티져 이미지
+logo:           # 타이틀 옆에 작게 들어갈 이미지
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -43,3 +46,7 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         dayebyday
+
+# Collection
+collections_dir:
+  my_collections
